@@ -1,5 +1,6 @@
 
-("C:/Users/AFAQ/Desktop/download.jpg")
+![Weather App Image](images/download.jpg)
+
 
 
 **# [Weather App] - Simple and Fast Weather Information**
