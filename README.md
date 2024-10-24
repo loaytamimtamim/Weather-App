@@ -1,6 +1,6 @@
 #### How Add Image
 
-  <img  src="assets/image/GG.jpg",width='180' , height = '180'>
+  <img  src="assets/images/git_image.jpg",width='180' , height = '180'>
 
 
 
