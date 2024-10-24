@@ -1,5 +1,7 @@
-# Preview:
-![Weather App Image](images/download.jpg)
+#### How Add Image
+<div>
+  <img  src="C:/Users/AFAQ/Desktop/GG.jpg",width='180'>
+</div>
 
 
 
