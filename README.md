@@ -1,7 +1,7 @@
 #### How Add Image
-<div>
-  <img  src="C:/Users/AFAQ/Desktop/GG.jpg",width='180'>
-</div>
+
+  <img  src="assets/image/GG.jpg",width='180' , height = '180'>
+
 
 
 
